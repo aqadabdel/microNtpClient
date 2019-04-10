@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "microNtpClient", "microNtpClient\microNtpClient.csproj", "{1487BE4C-F4B8-4364-A48B-1C71D161C994}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1487BE4C-F4B8-4364-A48B-1C71D161C994}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1487BE4C-F4B8-4364-A48B-1C71D161C994}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1487BE4C-F4B8-4364-A48B-1C71D161C994}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1487BE4C-F4B8-4364-A48B-1C71D161C994}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EC7FB609-9CF8-46E3-876C-0E9105091ACF}
+	EndGlobalSection
+EndGlobal
