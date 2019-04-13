@@ -1,0 +1,10 @@
+C:\Users\util\source\repos\microNtpClient\microNtpClient\bin\Debug\netcoreapp2.1\microNtpClient.deps.json
+C:\Users\util\source\repos\microNtpClient\microNtpClient\bin\Debug\netcoreapp2.1\microNtpClient.runtimeconfig.json
+C:\Users\util\source\repos\microNtpClient\microNtpClient\bin\Debug\netcoreapp2.1\microNtpClient.runtimeconfig.dev.json
+C:\Users\util\source\repos\microNtpClient\microNtpClient\bin\Debug\netcoreapp2.1\microNtpClient.dll
+C:\Users\util\source\repos\microNtpClient\microNtpClient\bin\Debug\netcoreapp2.1\microNtpClient.pdb
+C:\Users\util\source\repos\microNtpClient\microNtpClient\obj\Debug\netcoreapp2.1\microNtpClient.csproj.CoreCompileInputs.cache
+C:\Users\util\source\repos\microNtpClient\microNtpClient\obj\Debug\netcoreapp2.1\microNtpClient.AssemblyInfoInputs.cache
+C:\Users\util\source\repos\microNtpClient\microNtpClient\obj\Debug\netcoreapp2.1\microNtpClient.AssemblyInfo.cs
+C:\Users\util\source\repos\microNtpClient\microNtpClient\obj\Debug\netcoreapp2.1\microNtpClient.dll
+C:\Users\util\source\repos\microNtpClient\microNtpClient\obj\Debug\netcoreapp2.1\microNtpClient.pdb
